@@ -1,0 +1,21 @@
+name: "Chris's site"
+output_dir: 'www_out'
+navbar:
+  title: "Christine A Doyle, MD, CHCI, FASA"
+  right:
+  # - text: OHSU's Website
+  #   href: "https://www.ohsu.edu"
+  - text: About Me
+    href: aboutme.html
+  - text: References
+    href: references.html
+output:
+  html_document:
+    theme: darkly
+    lib_dir: site_libs
+    self_contained: no
+    css: "css/stylesheet.css"
+  github_document:
+    html_preview = FALSE  
+
+
