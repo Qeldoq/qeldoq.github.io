@@ -1,7 +1,7 @@
 name: "Chris's site"
 output_dir: 'www_out'
 navbar:
-  title: "Christine A Doyle, MD, CHCI, FASA"
+  title: "Christine A Doyle, MD, MBI, FASA"
   right:
   # - text: OHSU's Website
   #   href: "https://www.ohsu.edu"
